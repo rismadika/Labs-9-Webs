@@ -11,3 +11,7 @@ Buat file baru dengan nama **home.php**<br>
 
 ![p](web/3.PNG)<br>
 ![p](web/4.PNG)<br>
+
+Buat file baru dengan nama **home.php**<br>
+![p](web/5.PNG)<br>
+![p](web/6.PNG)<br>
