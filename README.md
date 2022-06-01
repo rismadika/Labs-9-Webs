@@ -1,8 +1,8 @@
 # Labs-9-Webs
 
-# NAMA
-# NIM
-# KELAS
+# NAMA  : Risma Dika Alvianti
+# NIM   : 312010051
+# KELAS : TI.20.D1
 Buat file baru dengan nama **header.php**<br>
 ![p](web/1.PNG)<br>
 ![p](web/2.PNG)<br>
