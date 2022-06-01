@@ -15,3 +15,7 @@ Buat file baru dengan nama **home.php**<br>
 Buat file baru dengan nama **home.php**<br>
 ![p](web/5.PNG)<br>
 ![p](web/6.PNG)<br>
+
+Buat file baru dengan nama **about.php**<br>
+![p](web/7.PNG)<br>
+![p](web/8.PNG)<br>
